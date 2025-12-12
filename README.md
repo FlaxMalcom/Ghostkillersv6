@@ -7,7 +7,7 @@
 <body>
 
 <!-- TOP NOTICE -->
-<h2 style="color: red; text-align: center;">😈𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐆𝐇𝐎𝐒𝐓𝐊𝐈𝐋𝐋𝐄𝐑𝐒 𝐕𝟔 𝐁𝐔𝐆 𝐁𝐎𝐓😈</h2>
+<h2><font="color: green; text-align: center;">😈𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐆𝐇𝐎𝐒𝐓𝐊𝐈𝐋𝐋𝐄𝐑𝐒 𝐕𝟔 𝐁𝐔𝐆 𝐁𝐎𝐓😈</font></h2>
 
 <hr>
 
