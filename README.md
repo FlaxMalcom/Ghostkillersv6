@@ -1,3 +1,10 @@
+<!-- MAIN BOT IMAGE -->
+<div class="center">
+    <img src="https://files.catbox.moe/t31d6i.jpg" width="300" style="border-radius: 15px; box-shadow: 0 0 20px red;">
+</div>
+
+<br>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,7 +14,7 @@
 <body>
 
 <!-- TOP NOTICE -->
-<h2><font="color: green; text-align: center;">😈𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐆𝐇𝐎𝐒𝐓𝐊𝐈𝐋𝐋𝐄𝐑𝐒 𝐕𝟔 𝐁𝐔𝐆 𝐁𝐎𝐓😈</font></h2>
+<h2><font color="green">😈𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐆𝐇𝐎𝐒𝐓𝐊𝐈𝐋𝐋𝐄𝐑𝐒 𝐕𝟔 𝐁𝐔𝐆 𝐁𝐎𝐓😈</font></h2>
 
 <hr>
 
@@ -27,12 +34,6 @@
     <img src="https://i.imgur.com/dBaSKWF.gif" class="gif-divider">
 </div>
 
-<!-- MAIN BOT IMAGE -->
-<div class="center">
-    <img src="https://files.catbox.moe/t31d6i.jpg" width="300" style="border-radius: 15px; box-shadow: 0 0 20px red;">
-</div>
-
-<br>
 
 <!-- DESCRIPTION -->
 <div class="section">
