@@ -4,27 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GHOSTKILLERS V6 README</title>
-
-    <style>
-        body {
-            background: #000;
-            color: white;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 15px;
-        }
-        h1, h2, h3, h4 {
-            text-align: center;
-        }
-        a { color: cyan; }
-        .center { text-align: center; }
-        .gif-divider { width: 100%; height: 100px; }
-    </style>
 </head>
 <body>
 
 <!-- TOP NOTICE -->
-<h2 style="color: red; text-align: center;">⚠️ NOT WORKING — UPDATE COMING SOON ⚠️</h2>
+<h2 style="color: red; text-align: center;">😈𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐆𝐇𝐎𝐒𝐓𝐊𝐈𝐋𝐋𝐄𝐑𝐒 𝐕𝟔 𝐁𝐔𝐆 𝐁𝐎𝐓😈</h2>
 
 <hr>
 
